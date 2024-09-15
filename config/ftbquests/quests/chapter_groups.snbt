@@ -1,0 +1,7 @@
+{
+	chapter_groups: [
+		{ id: "5F8513D32541A303", title: "发展路线" }
+		{ id: "2186E09AFD2B6336", title: "主线章节" }
+		{ id: "410FD792CCD010E5", title: "支线章节" }
+	]
+}
